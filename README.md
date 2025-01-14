@@ -1,4 +1,5 @@
-## Hi there 👋
+<img href="goofyemoji.jpg">
+
 
 <!--
 **diogor0d/diogor0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
