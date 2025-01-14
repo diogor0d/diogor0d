@@ -1,4 +1,4 @@
-<img href="goofyemoji.jpg"/>
+![goofy](goofyemoji.jpg)
 
 
 <!--
