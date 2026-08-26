@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 348" role="img" aria-label="Terminal session: Diogo Rodrigues, MSc Computer Science and Engineering, Cybersecurity specialization, Universidade de Coimbra">
+  <style>
+    text { font-family: ui-monospace, 'Cascadia Code', 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace; }
+    .win  { fill: #161B22; }
+    .bar  { fill: #0D1117; }
+    .edge { stroke: #30363D; stroke-width: 1; }
+    .p    { fill: #3FB950; font-weight: 600; font-size: 15px; }
+    .c    { fill: #E6EDF3; font-size: 15px; }
+    .o    { fill: #8B949E; font-size: 15px; }
+    .v    { fill: #4493F8; font-size: 15px; }
+    .dot  { fill: #3FB950; }
+    .cur  { fill: #E6EDF3; }
+    .ln   { animation: appear .35s ease-out both; }
+    .live { animation: pulse 2.4s ease-in-out infinite; }
+    .cur  { animation: blink 1.1s step-end infinite; animation-delay: 4.2s; }
+    @keyframes appear { from { opacity: 0; } }
+    @keyframes pulse  { 0%, 100% { opacity: 1; } 50% { opacity: .35; } }
+    @keyframes blink  { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0; } }
+    @media (prefers-color-scheme: light) {
+      .win  { fill: #F6F8FA; }
+      .bar  { fill: #FFFFFF; }
+      .edge { stroke: #D0D7DE; }
+      .p, .dot { fill: #1A7F37; }
+      .c, .cur { fill: #1F2328; }
+      .o    { fill: #59636E; }
+      .v    { fill: #0969DA; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .ln, .live, .cur { animation: none; }
+    }
+  </style>
+
+  <rect class="win" x="1" y="1" width="878" height="346" rx="16"/>
+  <path class="bar" d="M1 17 A16 16 0 0 1 17 1 H863 A16 16 0 0 1 879 17 V41 H1 Z"/>
+  <line class="edge" x1="17" y1="41" x2="863" y2="41"/>
+  <rect class="edge" x="1" y="1" width="878" height="346" rx="16" fill="none"/>
+  <circle class="dot live" cx="32" cy="21" r="5"/>
+  <text class="o" x="440" y="26" font-size="13" text-anchor="middle">diogo@uc: ~</text>
+
+  <text xml:space="preserve" class="ln" style="animation-delay:.1s"  x="32" y="76"><tspan class="p">diogo@uc</tspan><tspan class="o">:</tspan><tspan class="v">~</tspan><tspan class="o">$ </tspan><tspan class="c">whoami</tspan></text>
+  <text xml:space="preserve" class="ln o" style="animation-delay:.5s" x="32" y="101">open source &amp; automation enthusiast · Coimbra, PT</text>
+
+  <text xml:space="preserve" class="ln" style="animation-delay:1s"   x="32" y="136"><tspan class="p">diogo@uc</tspan><tspan class="o">:</tspan><tspan class="v">~</tspan><tspan class="o">$ </tspan><tspan class="c">finger diogo | head -n 2</tspan></text>
+  <text xml:space="preserve" class="ln" style="animation-delay:1.35s" x="32" y="161"><tspan class="o">Program:  </tspan><tspan class="c">MSc Computer Science &amp; Engineering</tspan></text>
+  <text xml:space="preserve" class="ln" style="animation-delay:1.7s"  x="32" y="186"><tspan class="o">          Cybersecurity specialization · Universidade de Coimbra</tspan></text>
+
+  <text xml:space="preserve" class="ln" style="animation-delay:2.2s"  x="32" y="221"><tspan class="p">diogo@uc</tspan><tspan class="o">:</tspan><tspan class="v">~</tspan><tspan class="o">$ </tspan><tspan class="c">ls ~/builds</tspan></text>
+  <text xml:space="preserve" class="ln v" style="animation-delay:2.75s" x="32" y="246">plate-os/        paper-spotlights/        metube-sidecar/</text>
+  <text xml:space="preserve" class="ln v" style="animation-delay:3.1s" x="32" y="271">codex-window-optimizator/        ciaac-bot/</text>
+
+  <text xml:space="preserve" class="ln" style="animation-delay:3.6s" x="32" y="306"><tspan class="p">diogo@uc</tspan><tspan class="o">:</tspan><tspan class="v">~</tspan><tspan class="o">$ </tspan><tspan class="cur">█</tspan></text>
+</svg>
