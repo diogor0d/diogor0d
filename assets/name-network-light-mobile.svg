@@ -1,15 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="350" viewBox="0 0 1000 350" role="img" aria-labelledby="title desc">
-<title id="title">Diogo Rodrigues — building software, running systems</title><desc id="desc">Diogo Rodrigues. Software, systems, and cybersecurity. A network of nodes exchanges small light particles.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="480" viewBox="0 0 560 480" role="img" aria-labelledby="title desc">
+<title id="title">Diogo Rodrigues</title><desc id="desc">Diogo Rodrigues with an animated network of nodes exchanging light particles.</desc>
 <defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
 <circle cx="1" cy="1" r="1" fill="#d2def2"/></pattern></defs>
-<rect width="1000" height="350" rx="12" fill="#eaf1fc"/>
-<rect width="1000" height="350" rx="12" fill="url(#grid)"/>
+<rect width="560" height="480" rx="12" fill="#eaf1fc"/>
+<rect width="560" height="480" rx="12" fill="url(#grid)"/>
 <style>text{font-family:"Avenir Next",Avenir,"Segoe UI",Arial,sans-serif}.mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}@media(prefers-reduced-motion:reduce){.packet{display:none}}</style>
-<text x="44" y="108" font-size="76" font-weight="750" fill="#172c55" letter-spacing="-3">Diogo</text>
-<text x="44" y="185" font-size="76" font-weight="750" fill="#172c55" letter-spacing="-3">Rodrigues.</text>
-<text x="44" y="241" font-size="25" font-weight="500" fill="#172c55" letter-spacing="-0.5">Building software.</text>
-<text x="44" y="275" font-size="25" font-weight="500" fill="#172c55" letter-spacing="-0.5">Running systems.</text>
-<g transform="translate(548 32)" aria-hidden="true">
+<text x="36" y="102" font-size="76" font-weight="750" fill="#172c55" letter-spacing="-3">Diogo</text>
+<text x="36" y="180" font-size="76" font-weight="750" fill="#172c55" letter-spacing="-3">Rodrigues</text>
+<g transform="translate(111 236) scale(.86)" aria-hidden="true">
 <path d="M20 50 L170 125" fill="none" stroke="#127a91" stroke-opacity=".22" stroke-width=".9"/>
 <path d="M20 50 L130 24" fill="none" stroke="#127a91" stroke-opacity=".22" stroke-width=".9"/>
 <path d="M130 24 L225 80" fill="none" stroke="#127a91" stroke-opacity=".22" stroke-width=".9"/>

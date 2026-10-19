@@ -1,8 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/profile-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/profile-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-  <img src="assets/profile-light.svg" width="100%" alt="Diogo Rodrigues. Building software. Running systems.">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/name-network-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/name-network-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/name-network-dark.svg">
+  <img src="assets/name-network-light.svg" width="100%" alt="Diogo Rodrigues with an animated network">
 </picture>
 
 I’m a computer science graduate in Coimbra, Portugal, studying for an **MSc in Computer Science & Engineering, specializing in Cybersecurity** at Universidade de Coimbra.
