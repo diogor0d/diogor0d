@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/profile-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/profile-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-  <img src="assets/profile-light.svg" width="100%" alt="Diogo Rodrigues. Tools for the things I actually do.">
+  <img src="assets/profile-light.svg" width="100%" alt="Diogo Rodrigues. Building software. Running systems.">
 </picture>
 
 I’m a computer science graduate in Coimbra, Portugal, studying for an **MSc in Computer Science & Engineering, specializing in Cybersecurity** at Universidade de Coimbra.

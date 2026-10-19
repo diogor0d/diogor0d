@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="560" viewBox="0 0 560 560" role="img" aria-labelledby="title desc">
-<title id="title">Diogo Rodrigues — tools for the things I actually do</title><desc id="desc">Diogo Rodrigues. Software, systems, and cybersecurity. A network of nodes exchanges small light particles.</desc>
+<title id="title">Diogo Rodrigues — building software, running systems</title><desc id="desc">Diogo Rodrigues. Software, systems, and cybersecurity. A network of nodes exchanges small light particles.</desc>
 <defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
 <circle cx="1" cy="1" r="1" fill="#d2def2"/></pattern></defs>
 <rect width="560" height="560" rx="12" fill="#eaf1fc"/>
@@ -7,8 +7,8 @@
 <style>text{font-family:"Avenir Next",Avenir,"Segoe UI",Arial,sans-serif}.mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}@media(prefers-reduced-motion:reduce){.packet{display:none}}</style>
 <text x="36" y="102" font-size="76" font-weight="750" fill="#172c55" letter-spacing="-3">Diogo</text>
 <text x="36" y="180" font-size="76" font-weight="750" fill="#172c55" letter-spacing="-3">Rodrigues.</text>
-<text x="36" y="235" font-size="28" font-weight="500" fill="#172c55" letter-spacing="-0.5">Tools for the things</text>
-<text x="36" y="271" font-size="28" font-weight="500" fill="#172c55" letter-spacing="-0.5">I actually do.</text>
+<text x="36" y="235" font-size="28" font-weight="500" fill="#172c55" letter-spacing="-0.5">Building software.</text>
+<text x="36" y="271" font-size="28" font-weight="500" fill="#172c55" letter-spacing="-0.5">Running systems.</text>
 <g transform="translate(111 304) scale(.86)" aria-hidden="true">
 <path d="M20 50 L170 125" fill="none" stroke="#127a91" stroke-opacity=".22" stroke-width=".9"/>
 <path d="M20 50 L130 24" fill="none" stroke="#127a91" stroke-opacity=".22" stroke-width=".9"/>
