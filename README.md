@@ -35,7 +35,7 @@ I build tools for my own routines, from tracking meals to moving files between d
 
 ## Public repository directory
 
-All **30 public repositories**, including coursework, experiments, and **2 forks**. Snapshot: **2026-10-19**. [Browse the live list →](https://github.com/diogor0d?tab=repositories)
+Listed below: **29 public repositories**, including coursework, experiments, and **1 fork**. Snapshot: **2026-10-19**. [Browse the live list →](https://github.com/diogor0d?tab=repositories)
 
 <details>
 <summary><strong>Products & everyday tools</strong> · 12 repositories</summary>
@@ -88,14 +88,13 @@ All **30 public repositories**, including coursework, experiments, and **2 forks
 </details>
 
 <details>
-<summary><strong>Profile, website & forks</strong> · 4 repositories</summary>
+<summary><strong>Profile, website & forks</strong> · 3 repositories</summary>
 
 | Repository | What’s inside |
 | :--- | :--- |
 | [diogor0d](https://github.com/diogor0d/diogor0d) | This profile, its README, and its graphics. |
 | [diogor0d.github.io](https://github.com/diogor0d/diogor0d.github.io) | GitHub Pages website source. |
 | [opencode](https://github.com/diogor0d/opencode) <sup>fork</sup> | Fork of OpenCode, an open-source AI coding agent. |
-| [uYouEnhanced](https://github.com/diogor0d/uYouEnhanced) <sup>fork</sup> | Fork of uYouEnhanced, an iOS YouTube tweak project. |
 
 </details>
 
